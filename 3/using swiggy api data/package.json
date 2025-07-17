@@ -1,0 +1,25 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "This is episode of akshay saini react class",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/md-arish-17/aks-Ep-4.git)"
+  },
+  "license": "ISC",
+  "author": "Mohd Arish",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
